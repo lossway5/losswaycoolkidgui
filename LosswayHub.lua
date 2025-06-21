@@ -105,7 +105,7 @@ lblFUCKEMALL.TextSize = 20
  
 ImageLabel.Name = "ImageLabel"
 ImageLabel.Parent = FGUI
-ImageLabel.Image = "https://hizliresim.com/opr6ken"
+ImageLabel.Image = "rbxassetid://128466990707026"
 ImageLabel.BorderSizePixel = 1
 ImageLabel.Position = UDim2.new (0.274, 0,0.358, 0)
 ImageLabel.Size = UDim2.new (0, 106,0, 121)
