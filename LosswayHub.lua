@@ -50,7 +50,7 @@ lbltitle.Active = true
 lbltitle.Draggable = false
 lbltitle.Selectable = true
 lbltitle.Font = Enum.Font.SourceSansBold
-lbltitle.Text = "LosswayHub Bang Bang :D"
+lbltitle.Text = "A Simple Fuck(ing) GUI!!"
 lbltitle.TextColor3 = Color3.new(0, 0, 0)
 lbltitle.TextSize = 20
  
@@ -69,7 +69,7 @@ btnSex.Active = true
 btnSex.Draggable = false
 btnSex.Selectable = true
 btnSex.Font = Enum.Font.SourceSansBold
-btnSex.Text = "S1KMEYE BASLA"
+btnSex.Text = "Let's FUCK!!"
 btnSex.TextColor3 = Color3.new(0, 0, 0)
 btnSex.TextSize = 20
  
@@ -99,18 +99,16 @@ lblFUCKEMALL.Position = UDim2.new (0.025, 0,0.856, 0)
 lblFUCKEMALL.Size = UDim2.new (0, 301,0, 27)
 lblFUCKEMALL.Visible = true
 lblFUCKEMALL.Font = Enum.Font.SourceSansBold
-lblFUCKEMALL.Text = "SERDARİYE BOSUNA TIKLAMA CALISMAZ SALAK"
+lblFUCKEMALL.Text = "FUCK AND FUCK"
 lblFUCKEMALL.TextColor3 = Color3.new(0, 0, 0)
 lblFUCKEMALL.TextSize = 20
  
-ImageLabel = Instance.new("ImageLabel") 
 ImageLabel.Name = "ImageLabel"
-ImageLabel.Parent = FGUI 
-ImageLabel.Image = "rbxassetid://128466990707026"
+ImageLabel.Parent = FGUI
+ImageLabel.Image = "http://www.roblox.com/asset/?id=4283774086"
 ImageLabel.BorderSizePixel = 1
-ImageLabel.Position = UDim2.new(0.274, 0, 0.358, 0)
-ImageLabel.Size = UDim2.new(0, 106, 0, 121)
-ImageLabel.BackgroundTransparency = 1 
+ImageLabel.Position = UDim2.new (0.274, 0,0.358, 0)
+ImageLabel.Size = UDim2.new (0, 106,0, 121)
  
  
  
