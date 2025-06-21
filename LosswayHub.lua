@@ -25,11 +25,11 @@ local TextLabel = Instance.new("TextLabel")
  
 --Properties
  
-SimpleSexGUI.Name = "LosswayHub"
+SimpleSexGUI.Name = "SimpleSexGUI"
 SimpleSexGUI.Parent = game.CoreGui
  
  
-FGUI.Name = "LosswayHub v2"
+FGUI.Name = "FGUI"
 FGUI.Parent = SimpleSexGUI
 FGUI.BackgroundColor3 = Color3.new(255,255,255)
 FGUI.BorderSizePixel = 1
@@ -40,7 +40,7 @@ FGUI.Draggable = true
  
  
 lbltitle.Name = "Title"
-lbltitle.Parent = LosswayHub
+lbltitle.Parent = FGUI
 lbltitle.BackgroundColor3 = Color3.new(255,255,255)
 lbltitle.BorderSizePixel = 1
 lbltitle.Position = UDim2.new (0, 0,-0.122, 0)
@@ -59,7 +59,7 @@ lbltitle.TextSize = 20
  
  
 btnSex.Name = "Sex"
-btnSex.Parent = LosswayHub
+btnSex.Parent = FGUI
 btnSex.BackgroundColor3 = Color3.new(255,255,255)
 btnSex.BorderSizePixel = 1
 btnSex.Position = UDim2.new (0.044, 0,0.229, 0)
@@ -77,7 +77,7 @@ btnSex.TextSize = 20
  
  
 tbxVictim.Name = "VictimTEXT"
-tbxVictim.Parent = LosswayHub
+tbxVictim.Parent = FGUI
 tbxVictim.BackgroundColor3 = Color3.new(255,255,255)
 tbxVictim.BorderSizePixel = 1
 tbxVictim.Position = UDim2.new (0.533, 0,0.229, 0)
@@ -92,7 +92,7 @@ tbxVictim.TextColor3 = Color3.new(0, 0, 0)
 tbxVictim.TextSize = 20
  
 lblFUCKEMALL.Name = "FUCKEMALL"
-lblFUCKEMALL.Parent = LosswayHub
+lblFUCKEMALL.Parent = FGUI
 lblFUCKEMALL.BackgroundColor3 = Color3.new(255,255,255)
 lblFUCKEMALL.BorderSizePixel = 1
 lblFUCKEMALL.Position = UDim2.new (0.025, 0,0.856, 0)
@@ -104,7 +104,7 @@ lblFUCKEMALL.TextColor3 = Color3.new(0, 0, 0)
 lblFUCKEMALL.TextSize = 20
  
 ImageLabel.Name = "ImageLabel"
-ImageLabel.Parent = LosswayHub
+ImageLabel.Parent = FGUI
 ImageLabel.Image = "http://www.roblox.com/asset/?id=4283774086"
 ImageLabel.BorderSizePixel = 1
 ImageLabel.Position = UDim2.new (0.274, 0,0.358, 0)
