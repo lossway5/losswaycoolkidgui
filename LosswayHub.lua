@@ -103,12 +103,14 @@ lblFUCKEMALL.Text = "SERDARİYE BOSUNA TIKLAMA CALISMAZ SALAK"
 lblFUCKEMALL.TextColor3 = Color3.new(0, 0, 0)
 lblFUCKEMALL.TextSize = 20
  
+ImageLabel = Instance.new("ImageLabel") 
 ImageLabel.Name = "ImageLabel"
-ImageLabel.Parent = FGUI
+ImageLabel.Parent = FGUI 
 ImageLabel.Image = "rbxassetid://128466990707026"
 ImageLabel.BorderSizePixel = 1
-ImageLabel.Position = UDim2.new (0.274, 0,0.358, 0)
-ImageLabel.Size = UDim2.new (0, 106,0, 121)
+ImageLabel.Position = UDim2.new(0.274, 0, 0.358, 0)
+ImageLabel.Size = UDim2.new(0, 106, 0, 121)
+ImageLabel.BackgroundTransparency = 1 
  
  
  
