@@ -50,7 +50,7 @@ lbltitle.Active = true
 lbltitle.Draggable = false
 lbltitle.Selectable = true
 lbltitle.Font = Enum.Font.SourceSansBold
-lbltitle.Text = "A Simple Fuck(ing) GUI!!"
+lbltitle.Text = "LosswayHub Bang Bang :D"
 lbltitle.TextColor3 = Color3.new(0, 0, 0)
 lbltitle.TextSize = 20
  
